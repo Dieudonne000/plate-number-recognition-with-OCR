@@ -1,0 +1,4 @@
+src/__pycache__
+.gitignore
+config.bat
+node_modules
